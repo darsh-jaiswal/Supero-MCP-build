@@ -1,3 +1,5 @@
 # Private application materials; attach the resume to the application email.
 Darsh-Jaiswal-Resume.pdf
 APPLICATION-KIT.md
+__pycache__/
+*.py[cod]
