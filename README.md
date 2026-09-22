@@ -4,7 +4,7 @@ An intentionally small, multi-tenant campus-recruitment application built throug
 
 ## Reference project
 
-This challenge build is derived from the author’s production project, [AspireQuest](https://github.com/darsh-jaiswal/aspire-quest): a campus-recruitment platform with student intake, recruiter-owned job openings, company-scoped candidate access, AI-assisted applicant scoring, and audit-conscious access controls.
+This challenge build is derived from the author’s production project, a campus-recruitment platform with student intake, recruiter-owned job openings, company-scoped candidate access, AI-assisted applicant scoring, and audit-conscious access controls.
 
 ## Challenge scope
 
@@ -14,7 +14,7 @@ This challenge build is derived from the author’s production project, [AspireQ
 - Guardrails: tenant-isolated access, closed openings reject applications, and AI assessment never makes a hiring decision automatically
 - AI: recruiter-owned private screening prompts produce a structured Anthropic assessment with a score, matching skills, and rationale
 
-Only fictitious data is used. No AspireQuest source code, credentials, payments, resumes, private data, university branding, or production configuration is included here.
+Only fictitious data is used.  credentials, payments, resumes, private data, university branding, or production configuration is included here.
 
 ## Build submission
 
